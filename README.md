@@ -84,5 +84,5 @@ asp3_in_zigはこの簡易パッケージのソースを利用しませんが、
 [zig-windows(master) hangs when compile sampel/sample1_cfg.zig](https://github.com/toppers/asp3_in_zig/issues/12)
 
 ## Macでzigやarm-none-eabi-gccを実行するには、事前に実行の許可を与える必要がある。
-Apple Menu -> 市捨てｍ環境設定 -> セキュリティとプライバシー -> 一般 -> 左下の鍵のアイコンをクリック -> パスワード入力
+Apple Menu -> システム環境設定 -> セキュリティとプライバシー -> 一般 -> 左下の鍵のアイコンをクリック -> パスワード入力
 zigを実行しようとしてOSに実行を止められたら、セキュリティーとプライバシーのダイアログで実行を許可する。
