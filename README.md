@@ -78,6 +78,7 @@ asp3_in_zigはこの簡易パッケージのソースを利用しませんが、
 
 # 注意点
 [Documentation \- The Zig Programming Language](https://ziglang.org/documentation/master/#Source-Encoding)
+
 ## Zig言語はソースファイルには、以下の行に示す例外を除いて、ASCIIのコントロールキャラクタを含めれません。
 ### U+000a (LF): U+0000 - U+0009, U+000b - U+0001f, U+007
 ### Windowsの改行文字(CRLF)を含めれません。
